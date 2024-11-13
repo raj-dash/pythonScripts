@@ -1,0 +1,128 @@
+2024-11-12 23:51:46.434192
+
+4kvideodownloaderplus_1.5.3_x64_online.exe -> C:\Users\rajar\Downloads\exe\4kvideodownloaderplus_1.5.3_x64_online.exe
+Anaconda3-2023.09-0-Windows-x86_64.exe -> C:\Users\rajar\Downloads\exe\Anaconda3-2023.09-0-Windows-x86_64.exe
+App.xlsx -> C:\Users\rajar\Downloads\other\App.xlsx
+archive.zip -> C:\Users\rajar\Downloads\zip\archive.zip
+arduino-ide_2.3.2_Windows_64bit.exe -> C:\Users\rajar\Downloads\exe\arduino-ide_2.3.2_Windows_64bit.exe
+Book1.xlsx -> C:\Users\rajar\Downloads\other\Book1.xlsx
+chromeremotedesktophost.msi -> C:\Users\rajar\Downloads\other\chromeremotedesktophost.msi
+ChromeSetup.exe -> C:\Users\rajar\Downloads\exe\ChromeSetup.exe
+CiscoPacketTracer_821_Windows_64bit.exe -> C:\Users\rajar\Downloads\exe\CiscoPacketTracer_821_Windows_64bit.exe
+client_auth_agent (1).exe -> C:\Users\rajar\Downloads\exe\client_auth_agent (1).exe
+client_auth_agent.exe -> C:\Users\rajar\Downloads\exe\client_auth_agent.exe
+Cloudflare_WARP_2024.6.415.0.msi -> C:\Users\rajar\Downloads\other\Cloudflare_WARP_2024.6.415.0.msi
+Community-Hub-VOS-main.zip -> C:\Users\rajar\Downloads\zip\Community-Hub-VOS-main.zip
+cuda-wsl-ubuntu.pin -> C:\Users\rajar\Downloads\other\cuda-wsl-ubuntu.pin
+Design Elements Infographics by Slidesgo.pptx -> C:\Users\rajar\Downloads\ppt\Design Elements Infographics by Slidesgo.pptx
+DiscordSetup.exe -> C:\Users\rajar\Downloads\exe\DiscordSetup.exe
+dt_brd.doc -> C:\Users\rajar\Downloads\other\dt_brd.doc
+Engineering Project Proposal by Slidesgo.pptx -> C:\Users\rajar\Downloads\ppt\Engineering Project Proposal by Slidesgo.pptx
+EpicInstaller-15.17.1.msi -> C:\Users\rajar\Downloads\other\EpicInstaller-15.17.1.msi
+EqualizerAPO64-1.3.2.exe -> C:\Users\rajar\Downloads\exe\EqualizerAPO64-1.3.2.exe
+Everything-1.4.1.1024.x64-Setup.exe -> C:\Users\rajar\Downloads\exe\Everything-1.4.1.1024.x64-Setup.exe
+expressvpn_windows_12.85.0.11_release.exe -> C:\Users\rajar\Downloads\exe\expressvpn_windows_12.85.0.11_release.exe
+fabric-installer-1.0.1.exe -> C:\Users\rajar\Downloads\exe\fabric-installer-1.0.1.exe
+face detection intraintech.zip -> C:\Users\rajar\Downloads\zip\face detection intraintech.zip
+FALLSEM2024-25_STS3007_TH_AP2024252001241_2024-09-10_Reference-Material-I.pptx -> C:\Users\rajar\Downloads\ppt\FALLSEM2024-25_STS3007_TH_AP2024252001241_2024-09-10_Reference-Material-I.pptx
+FALLSEM2024-25_STS3007_TH_AP2024252001241_2024-09-12_Reference-Material-I.pptx -> C:\Users\rajar\Downloads\ppt\FALLSEM2024-25_STS3007_TH_AP2024252001241_2024-09-12_Reference-Material-I.pptx
+FALLSEM2024-25_STS3007_TH_AP2024252001241_2024-09-14_Reference-Material-I.pptx -> C:\Users\rajar\Downloads\ppt\FALLSEM2024-25_STS3007_TH_AP2024252001241_2024-09-14_Reference-Material-I.pptx
+FALLSEM2024-25_STS3007_TH_AP2024252001241_2024-09-17_Reference-Material-I.pptx -> C:\Users\rajar\Downloads\ppt\FALLSEM2024-25_STS3007_TH_AP2024252001241_2024-09-17_Reference-Material-I.pptx
+Focal-Systems-Logo.zip -> C:\Users\rajar\Downloads\zip\Focal-Systems-Logo.zip
+geek.zip -> C:\Users\rajar\Downloads\zip\geek.zip
+GenshinImpact_install_ua_445fe89e81c6.exe -> C:\Users\rajar\Downloads\exe\GenshinImpact_install_ua_445fe89e81c6.exe
+Git-2.44.0-64-bit.exe -> C:\Users\rajar\Downloads\exe\Git-2.44.0-64-bit.exe
+GIT.one -> C:\Users\rajar\Downloads\other\GIT.one
+Group2 REM Review 2 (1).pptx -> C:\Users\rajar\Downloads\ppt\Group2 REM Review 2 (1).pptx
+Group2 REM Review 2 (2).pptx -> C:\Users\rajar\Downloads\ppt\Group2 REM Review 2 (2).pptx
+Group2 REM Review 2.pptx -> C:\Users\rajar\Downloads\ppt\Group2 REM Review 2.pptx
+Hack Street Boys_ML-Based Posture Recognition System[1].pptx -> C:\Users\rajar\Downloads\ppt\Hack Street Boys_ML-Based Posture Recognition System[1].pptx
+hwi_772.exe -> C:\Users\rajar\Downloads\exe\hwi_772.exe
+ideaIC-2023.3.3.exe -> C:\Users\rajar\Downloads\exe\ideaIC-2023.3.3.exe
+ideaIC-2024.1.4.exe -> C:\Users\rajar\Downloads\exe\ideaIC-2024.1.4.exe
+IGDownloader.App_3340849671372728162.mp4 -> C:\Users\rajar\Downloads\other\IGDownloader.App_3340849671372728162.mp4
+Install League of Legends euw.exe -> C:\Users\rajar\Downloads\exe\Install League of Legends euw.exe
+Karunya List of Universities.xlsx -> C:\Users\rajar\Downloads\other\Karunya List of Universities.xlsx
+KindleForPC-installer-2.5.70951.exe -> C:\Users\rajar\Downloads\exe\KindleForPC-installer-2.5.70951.exe
+kts21.3.10.391aben_26181.exe -> C:\Users\rajar\Downloads\exe\kts21.3.10.391aben_26181.exe
+League_of_Legends_03-21-2024_17-47-34-945.mp4 -> C:\Users\rajar\Downloads\other\League_of_Legends_03-21-2024_17-47-34-945.mp4
+LenovoLegionToolkitSetup.exe -> C:\Users\rajar\Downloads\exe\LenovoLegionToolkitSetup.exe
+lghub_installer.exe -> C:\Users\rajar\Downloads\exe\lghub_installer.exe
+Minimalist Grayscale Pitch Deck XL by Slidesgo.pptx -> C:\Users\rajar\Downloads\ppt\Minimalist Grayscale Pitch Deck XL by Slidesgo.pptx
+ML Based Posture Recognition System.pptx -> C:\Users\rajar\Downloads\ppt\ML Based Posture Recognition System.pptx
+ML_Based_Posture_Recognition_System.1.pptx -> C:\Users\rajar\Downloads\ppt\ML_Based_Posture_Recognition_System.1.pptx
+Module 2 Creativity_and_Innovation_in_Entrepreneurship.pptx -> C:\Users\rajar\Downloads\ppt\Module 2 Creativity_and_Innovation_in_Entrepreneurship.pptx
+Module 4_ Startups.pptx -> C:\Users\rajar\Downloads\ppt\Module 4_ Startups.pptx
+Module 5 Business Plan.pptx -> C:\Users\rajar\Downloads\ppt\Module 5 Business Plan.pptx
+Montserrat.zip -> C:\Users\rajar\Downloads\zip\Montserrat.zip
+MSIAfterburnerSetup.zip -> C:\Users\rajar\Downloads\zip\MSIAfterburnerSetup.zip
+mysql-installer-community-8.0.36.0.msi -> C:\Users\rajar\Downloads\other\mysql-installer-community-8.0.36.0.msi
+my_effnet3.keras -> C:\Users\rajar\Downloads\other\my_effnet3.keras
+my_effnet_colab.h5 -> C:\Users\rajar\Downloads\other\my_effnet_colab.h5
+my_effnet_colab.keras -> C:\Users\rajar\Downloads\other\my_effnet_colab.keras
+node-v20.11.1-x64.msi -> C:\Users\rajar\Downloads\other\node-v20.11.1-x64.msi
+NordVPNSetup.exe -> C:\Users\rajar\Downloads\exe\NordVPNSetup.exe
+NVIDIASansVF_NALA_W_Wght.woff2 -> C:\Users\rajar\Downloads\other\NVIDIASansVF_NALA_W_Wght.woff2
+OBS-Studio-30.0.2-Full-Installer-x64.exe -> C:\Users\rajar\Downloads\exe\OBS-Studio-30.0.2-Full-Installer-x64.exe
+OI ZUKI.zip -> C:\Users\rajar\Downloads\zip\OI ZUKI.zip
+OneDrive_3_5-5-2024.zip -> C:\Users\rajar\Downloads\zip\OneDrive_3_5-5-2024.zip
+OperaGXSetup.exe -> C:\Users\rajar\Downloads\exe\OperaGXSetup.exe
+OtherData.zip -> C:\Users\rajar\Downloads\zip\OtherData.zip
+Patrix_1.21_32x_basic.zip -> C:\Users\rajar\Downloads\zip\Patrix_1.21_32x_basic.zip
+plutonium.exe -> C:\Users\rajar\Downloads\exe\plutonium.exe
+Presentation (1).pptx -> C:\Users\rajar\Downloads\ppt\Presentation (1).pptx
+Process Diagrams by Slidesgo.pptx -> C:\Users\rajar\Downloads\ppt\Process Diagrams by Slidesgo.pptx
+Product Metrics.pptx -> C:\Users\rajar\Downloads\ppt\Product Metrics.pptx
+pycharm-community-2023.3.4.exe -> C:\Users\rajar\Downloads\exe\pycharm-community-2023.3.4.exe
+python-3.12.2-amd64.exe -> C:\Users\rajar\Downloads\exe\python-3.12.2-amd64.exe
+python-3.8.2-amd64.exe -> C:\Users\rajar\Downloads\exe\python-3.8.2-amd64.exe
+qbittorrent_4.6.3_x64_setup.exe -> C:\Users\rajar\Downloads\exe\qbittorrent_4.6.3_x64_setup.exe
+R-4.3.2-win.exe -> C:\Users\rajar\Downloads\exe\R-4.3.2-win.exe
+Rainbow 6 Siege Tracker - Installer.exe -> C:\Users\rajar\Downloads\exe\Rainbow 6 Siege Tracker - Installer.exe
+Real Handheld Camera Movement Presets For Premiere Pro (Personal).zip -> C:\Users\rajar\Downloads\zip\Real Handheld Camera Movement Presets For Premiere Pro (Personal).zip
+red-love-heart-seamless-pattern-600nw-2238463297.webp -> C:\Users\rajar\Downloads\other\red-love-heart-seamless-pattern-600nw-2238463297.webp
+REM Project Video.mp4 -> C:\Users\rajar\Downloads\other\REM Project Video.mp4
+RStudio-2023.12.1-402.exe -> C:\Users\rajar\Downloads\exe\RStudio-2023.12.1-402.exe
+Scottish-fold-cat.webp -> C:\Users\rajar\Downloads\other\Scottish-fold-cat.webp
+SequenceDiagram.drawio -> C:\Users\rajar\Downloads\other\SequenceDiagram.drawio
+Setup_G-SYNC_1.13.exe -> C:\Users\rajar\Downloads\exe\Setup_G-SYNC_1.13.exe
+SIH2024_IDEA_Presentation_Format (1).pptx -> C:\Users\rajar\Downloads\ppt\SIH2024_IDEA_Presentation_Format (1).pptx
+SIH2024_IDEA_Presentation_Format.pptx -> C:\Users\rajar\Downloads\ppt\SIH2024_IDEA_Presentation_Format.pptx
+SIH2024_IDEA_Presentation_FSLAK.pptx -> C:\Users\rajar\Downloads\ppt\SIH2024_IDEA_Presentation_FSLAK.pptx
+SIH2024_IDEA_Presentation_FSLAK[1].pptx -> C:\Users\rajar\Downloads\ppt\SIH2024_IDEA_Presentation_FSLAK[1].pptx
+SRP Tatsumi PA traffic (0.9.1).7z -> C:\Users\rajar\Downloads\other\SRP Tatsumi PA traffic (0.9.1).7z
+SteamSetup.exe -> C:\Users\rajar\Downloads\exe\SteamSetup.exe
+Succession Planning Project Proposal by Slidesgo.pptx -> C:\Users\rajar\Downloads\ppt\Succession Planning Project Proposal by Slidesgo.pptx
+t-test(Ketaki Jain 22BCE8308).rtf -> C:\Users\rajar\Downloads\other\t-test(Ketaki Jain 22BCE8308).rtf
+Technology Infographics by Slidesgo.pptx -> C:\Users\rajar\Downloads\ppt\Technology Infographics by Slidesgo.pptx
+Transfered_Learning.ipynb -> C:\Users\rajar\Downloads\other\Transfered_Learning.ipynb
+TypicalTestProblems.ppt -> C:\Users\rajar\Downloads\other\TypicalTestProblems.ppt
+universities.xlsx -> C:\Users\rajar\Downloads\other\universities.xlsx
+Untitled design.mp4 -> C:\Users\rajar\Downloads\other\Untitled design.mp4
+Untitled video.mp4 -> C:\Users\rajar\Downloads\other\Untitled video.mp4
+Vortex-1-1-10-8-1710319525.exe -> C:\Users\rajar\Downloads\exe\Vortex-1-1-10-8-1710319525.exe
+VSCodeUserSetup-x64-1.86.1.exe -> C:\Users\rajar\Downloads\exe\VSCodeUserSetup-x64-1.86.1.exe
+WhatsApp Chat with Baishalini Sahu IntrainTech.txt -> C:\Users\rajar\Downloads\txt\WhatsApp Chat with Baishalini Sahu IntrainTech.txt
+WhatsApp Video 2024-10-06 at 10.55.49 PM.mp4 -> C:\Users\rajar\Downloads\other\WhatsApp Video 2024-10-06 at 10.55.49 PM.mp4
+winrar-x64-624.exe -> C:\Users\rajar\Downloads\exe\winrar-x64-624.exe
+Winter Semester 2023-24_MAT1011_ETH_AP2023246000330_2024-03-16_Reference-Material-I.pptx -> C:\Users\rajar\Downloads\ppt\Winter Semester 2023-24_MAT1011_ETH_AP2023246000330_2024-03-16_Reference-Material-I.pptx
+Winter Semester 2023-24_MAT1011_ETH_AP2023246000330_2024-03-16_Reference-Material-II.pptx -> C:\Users\rajar\Downloads\ppt\Winter Semester 2023-24_MAT1011_ETH_AP2023246000330_2024-03-16_Reference-Material-II.pptx
+Winter Semester 2023-24_MAT1011_ETH_AP2023246000330_2024-03-16_Reference-Material-III.pptx -> C:\Users\rajar\Downloads\ppt\Winter Semester 2023-24_MAT1011_ETH_AP2023246000330_2024-03-16_Reference-Material-III.pptx
+wiztree_4_18_setup.exe -> C:\Users\rajar\Downloads\exe\wiztree_4_18_setup.exe
+ZohoMeetingLauncher.exe -> C:\Users\rajar\Downloads\exe\ZohoMeetingLauncher.exe
+
+--------------------------------------------------
+
+2024-11-12 23:53:20.604139
+
+2024-11-13 08:36:19.803920
+
+2024-11-13 09:06:32.762852
+
+OI ZUKI.zip -> C:\Users\rajar\Downloads\zip\OI ZUKI.zip
+
+--------------------------------------------------
+
+
+--------------------------------------------------
+
